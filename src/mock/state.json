@@ -1,0 +1,32 @@
+{
+  "listStates": [
+    {
+      "id": "1",
+      "name": "Asia"
+    },
+    {
+      "id": "2",
+      "name": "Europe"
+    },
+    {
+      "id": "3",
+      "name": "Africa"
+    },
+    {
+      "id": "4",
+      "name": "Australia"
+    },
+    {
+      "id": "5",
+      "name": "Atlantica"
+    },
+    {
+      "id": "6",
+      "name": "pacific"
+    },
+    {
+      "id": "7",
+      "name": "Russia"
+    }
+  ]
+}
