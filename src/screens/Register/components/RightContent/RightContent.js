@@ -185,7 +185,7 @@ export class RightContent extends Component {
         <div className="row">
           <label htmlFor="email" className="col-sm-2 col-form-label">Email</label>
           <div className="col-sm-6 mb-2">
-            <input type="email" value={email} name="email" onChange={(e) => { this.inputChange(e)} } className="form-control" id="email" placeholder="itjebasuthan@gmail.com" />
+            <input type="email" value={email} name="email" onChange={(e) => { this.inputChange(e)} } className="form-control" id="email" placeholder="shiva@gmail.com" />
             { submitted && this.state.errors.user.email.length > 0 &&  <span className='error'>{this.state.errors.user.email}</span>}
           </div>
           <div className="col-sm-4">
