@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5033bebf0fe662f8f76aaaf28e3c594a",
+    "revision": "ae7707bbcb2e7b67cc1585c423fcb8d2",
     "url": "/EmployeeUserRegistrationBlogReact/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EmployeeUserRegistrationBlogReact/static/css/2.3661fc73.chunk.css"
   },
   {
-    "revision": "438c0ddd771be4ceaa45",
+    "revision": "7ff3ae92d67e4284de2e",
     "url": "/EmployeeUserRegistrationBlogReact/static/css/main.7a30bbaa.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EmployeeUserRegistrationBlogReact/static/js/2.af4f9af0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "438c0ddd771be4ceaa45",
-    "url": "/EmployeeUserRegistrationBlogReact/static/js/main.52331585.chunk.js"
+    "revision": "7ff3ae92d67e4284de2e",
+    "url": "/EmployeeUserRegistrationBlogReact/static/js/main.00d3331e.chunk.js"
   },
   {
     "revision": "81bf7ccb1acdcedaf5e2",
